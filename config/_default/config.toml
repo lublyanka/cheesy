@@ -1,0 +1,36 @@
+# This the default config from which all other configurations inherit
+## For a more detailed example of the themes capabilities look at "development/config.toml"
+languageCode = "en-us"
+baseURL = "https://example.com"
+theme = "hugo-html5up-alpha"
+disqusShortname = ""
+title = "Cheesy world"
+defaultContentLanguage = "en"
+
+
+[params]
+  description = "Let's explore the whole world of cheese"
+  images = ["images/pic01.jpg"]
+  copyright = "© 2020. All rights reserved."
+  design = "Powered by: [HTML5 UP](http://html5up.net/)"
+  mainSections = ["blog"]
+  
+[params.logo]
+    path="images/fav-ico.png"
+	alt=500
+
+### Footer Social Media Links ###
+[[params.share]]
+title = "telegram"
+icon = "fa-telegram" # fontawesome icons https://fontawesome.com/icons?d=gallery&s=brands
+link = "https://t.me/egovova"
+
+[[params.share]]
+title = "github"
+icon = "fa-github"
+link = "https://github.com/egovova11"
+
+[[params.share]]
+title = "linkedin"
+icon = "fa-linkedin"
+link = "https://www.linkedin.com/in/vdoroshin/"

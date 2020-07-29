@@ -1,0 +1,56 @@
+### Banner ###
+banner:
+  enable: true
+  image: #default is 'images/banner.jpg'
+  title: "Cheesy world app"
+  content: "" # Change this if you want something other then the site description
+  buttons:
+    - title: "Sign Up"
+      link: "#"
+      class: "primary"
+    - title: "Learn More"
+      link: "#"
+
+### Highlight ###
+highlight:
+  enable: true
+  header: "Track your favourite cheese <br /> and discover new ones"
+  content: "Do you never remember what delicious cheese you bought last month? <br /> Time's up! We'll help you remember"
+  image: "images/pic01.jpg"
+
+### Features ###
+features:
+  enable: true
+  rows:
+    - items:
+      - title: "Track"
+        icon: "fa-list"
+        accent: "accent3" #accent values are 1-8
+        content: "Track and rate every yummy cheese you've tasted"
+      - title: "Fav lists"
+        icon: "fa fa-star"
+        accent: "accent2" #accent values are 1-8
+        content: "Create your own favourite cheese lists or wish to try lists"
+    - items:
+        - title: "Dig up"
+          icon: "fa-search"
+          accent: "accent4" #accent values are 1-8
+          content: "Discover new cheeses through the styles nad flavours"
+        - title: "Make a note"
+          icon: "fa-pencil-alt"
+          accent: "accent5" #accent values are 1-8
+          content: "All your 'Try this you'll like it' will be perfectly saved"
+
+### Blog ###
+blog:
+  enable: false
+  # Leave header text blank to remove entire <section>
+  header: "Recent Posts"
+  buttonText: "Read More"
+  postCount: 2
+
+### Call to Action ###
+cta:
+  enable: true
+  header: "Sign up for beta access"
+  content: "Wop-wop and find your cheese"
