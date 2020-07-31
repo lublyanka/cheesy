@@ -1,104 +1,56 @@
 ## Everything below is specific to the hugoBasicExample
-baseURL = "https://example.com"
+baseURL = "https://findyourcheese.app"
+theme = "hugo-html5up-alpha"
+disqusShortname = ""
+title = "Cheesy world"
+defaultContentLanguage = "en"
+
 
 [params]
-  description = "A Hugo port of the static html template Alpha by HTML5 UP."
-  mainSections = ["post"]
+  description = "Let's explore the whole world of cheese"
+  images = ["images/pic01.jpg"]
+  copyright = "© 2020. All rights reserved."
+  design = "Powered by: [HTML5 UP](http://html5up.net/)"
+  mainSections = ["blog"]
+  
+[params.logo]
+    path="/images/fav-ico.png"
+	alt=500
 
-## Markdown Settings
-enableEmoji = true
-[markup.goldmark]
-  [markup.goldmark.extensions]
-    definitionList = true
-    footnote = true
-    linkify = true
-    strikethrough = true
-    table = true
-    taskList = true
-    typographer = true
-  [markup.goldmark.parser]
-    attribute = true
-    autoHeadingID = true
-    autoHeadingIDType = "github"
-  [markup.goldmark.renderer]
-    hardWraps = false
-    unsafe = true
-    xhtml = false
-  [markup.highlight]
-    codeFences = true
-    guessSyntax = false
-    hl_Lines = ""
-    lineNoStart = 1
-    lineNos = false
-    lineNumbersInTable = true
-    noClasses = true
-    style = "bw"
-    tabWidth = 4
+### Footer Social Media Links ###
+[[params.share]]
+title = "telegram"
+icon = "fa-telegram" # fontawesome icons https://fontawesome.com/icons?d=gallery&s=brands
+link = "https://t.me/egovova"
 
-## Menu Settings
+[[params.share]]
+title = "github"
+icon = "fa-github"
+link = "https://github.com/egovova11"
+
+[[params.share]]
+title = "linkedin"
+icon = "fa-linkedin"
+link = "https://www.linkedin.com/in/vdoroshin/"
+
 [menu]
+  [[menu.main]]
+    identifier = "webapp"
+    name = "Web version"
+    url = "/webapp/"
+    weight = 30
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
     weight = 10
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/post/"
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
     weight = 20
   [[menu.main]]
-    identifier = "taxonomies"
-    name = "Taxonomies"
-    url = "#"
+    identifier = "blog"
+    name = "Release Notes"
+    url = "/blog/"
     weight = 30
-  [[menu.main]]
-    parent = "taxonomies"
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories/"
-    weight = 31
-  [[menu.main]]
-    parent = "taxonomies"
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 31
-  [[menu.main]]
-    parent = "taxonomies"
-    identifier = "series"
-    name = "Series"
-    url = "/series/"
-    weight = 33
-
-[taxonomies]
-  category = "categories"
-  tag = "tags"
-  series = "series"
-
-[privacy]
-
-  [privacy.vimeo]
-    disabled = false
-    simple = true
-
-  [privacy.twitter]
-    disabled = false
-    enableDNT = true
-    simple = true
-
-  [privacy.instagram]
-    disabled = false
-    simple = true
-
-  [privacy.youtube]
-    disabled = false
-    privacyEnhanced = true
-
-[services]
-
-  [services.instagram]
-    disableInlineCSS = true
-
-  [services.twitter]
-    disableInlineCSS = true

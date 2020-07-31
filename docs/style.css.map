@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "D:/Site/cheesy",
+	"sourceRoot": "C:/projects/cheesy",
 	"sources": [
 		"themes/hugo-html5up-alpha/assets/sass/main.scss",
 		"themes/hugo-html5up-alpha/assets/sass/libs/_vars.scss",

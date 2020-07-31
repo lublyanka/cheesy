@@ -2,121 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cheesy world</title>
-    <link>http://localhost:1313/</link>
+    <link>https://findyourcheese.app/</link>
     <description>Recent content on Cheesy world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://findyourcheese.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Text</title>
-      <link>http://localhost:1313/elements/text/</link>
+      <link>https://findyourcheese.app/elements/text/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/elements/text/</guid>
+      <guid>https://findyourcheese.app/elements/text/</guid>
       <description>Text This is bold and this is strong. This is italic and this is emphasized. This is superscript text and this is subscript text. This is underlined and this is code: for (;;) { ... }. Finally, this is a link.
  Heading with a Subtitle Lorem ipsum dolor sit amet nullam id egestas urna aliquam Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet.</description>
     </item>
     
     <item>
       <title>Lists</title>
-      <link>http://localhost:1313/elements/lists/</link>
+      <link>https://findyourcheese.app/elements/lists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/elements/lists/</guid>
+      <guid>https://findyourcheese.app/elements/lists/</guid>
       <description>Lists Unordered  Dolor pulvinar etiam. Sagittis lorem eleifend. Felis feugiat dolore viverra. Dolor pulvinar etiam.  Ordered  Dolor pulvinar etiam. Etiam vel felis at viverra. Felis enim feugiat magna. Etiam vel felis nullam. Felis enim et tempus.  Actions PrimaryDefaultAlt SmallSmallSmall PrimaryDefaultAlt PrimarySmall DefaultSmall </description>
     </item>
     
     <item>
       <title>Table</title>
-      <link>http://localhost:1313/elements/table/</link>
+      <link>https://findyourcheese.app/elements/table/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/elements/table/</guid>
+      <guid>https://findyourcheese.app/elements/table/</guid>
       <description>Table Default    NAME DESCRIPTION PRICE     Item 1 Ante turpis integer aliquet porttitor. 29.99   Item 2 Vis ac commodo adipiscing arcu aliquet. 19.99   Item 3 Morbi faucibus arcu accumsan lorem. 29.99   Item 4 Vitae integer tempus condimentum. 19.99   Item 5 Ante turpis integer aliquet porttitor. 29.99     100.00    </description>
     </item>
     
     <item>
       <title>Buttons</title>
-      <link>http://localhost:1313/elements/buttons/</link>
+      <link>https://findyourcheese.app/elements/buttons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/elements/buttons/</guid>
+      <guid>https://findyourcheese.app/elements/buttons/</guid>
       <description>Buttons PRIMARYDEFAULT LARGEDEFAULTSMALL FITFIT FIT &amp;#43; SMALLFIT &amp;#43; SMALL ICONICON PRIMARYDEFAULT </description>
     </item>
     
     <item>
       <title>Form</title>
-      <link>http://localhost:1313/elements/form/</link>
+      <link>https://findyourcheese.app/elements/form/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/elements/form/</guid>
+      <guid>https://findyourcheese.app/elements/form/</guid>
       <description>Form - Category -ManufacturingShippingAdministrationHuman ResourcesLowNormalHighEmail me a copyI am a human   </description>
     </item>
     
     <item>
       <title>Image</title>
-      <link>http://localhost:1313/elements/image/</link>
+      <link>https://findyourcheese.app/elements/image/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/elements/image/</guid>
+      <guid>https://findyourcheese.app/elements/image/</guid>
       <description>Image Fit  Gallery  Left &amp;amp; Right Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.</description>
     </item>
     
     <item>
       <title>0.1.7 ver. Cheese search</title>
-      <link>http://localhost:1313/blog/post4/</link>
+      <link>https://findyourcheese.app/blog/post4/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/post4/</guid>
+      <guid>https://findyourcheese.app/blog/post4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>0.1.5 ver. Lists was added</title>
-      <link>http://localhost:1313/blog/post3/</link>
+      <link>https://findyourcheese.app/blog/post3/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/post3/</guid>
+      <guid>https://findyourcheese.app/blog/post3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>0.1.2 ver. UI fixes</title>
-      <link>http://localhost:1313/blog/post2/</link>
+      <link>https://findyourcheese.app/blog/post2/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/post2/</guid>
+      <guid>https://findyourcheese.app/blog/post2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>0.1.0 ver. First version of application was born</title>
-      <link>http://localhost:1313/blog/post1/</link>
+      <link>https://findyourcheese.app/blog/post1/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/post1/</guid>
+      <guid>https://findyourcheese.app/blog/post1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This Is A Generic Page</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://findyourcheese.app/about/</link>
       <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://findyourcheese.app/about/</guid>
       <description>This is a subheading Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus.</description>
     </item>
     
     <item>
       <title>Contact Us</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://findyourcheese.app/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://findyourcheese.app/contact/</guid>
       <description> </description>
     </item>
     

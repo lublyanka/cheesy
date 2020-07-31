@@ -16,7 +16,7 @@ defaultContentLanguage = "en"
   mainSections = ["blog"]
   
 [params.logo]
-    path="images/fav-ico.png"
+    path="/images/fav-ico.png"
 	alt=500
 
 ### Footer Social Media Links ###
