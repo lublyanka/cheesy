@@ -1,3 +1,3 @@
 +++
-Title = "My Blog"
+Title = "Release notes"
 +++

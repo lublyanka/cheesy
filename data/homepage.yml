@@ -6,10 +6,12 @@ banner:
   content: "" # Change this if you want something other then the site description
   buttons:
     - title: "Sign Up"
-      link: "#"
+      link: "#cta"
       class: "primary"
-    - title: "Learn More"
+    - title: "Try web"
       link: "#"
+#    - title: "Learn More"
+#      link: "/about"
 
 ### Highlight ###
 highlight:
@@ -43,7 +45,7 @@ features:
 
 ### Blog ###
 blog:
-  enable: false
+  enable: true
   # Leave header text blank to remove entire <section>
   header: "Recent Posts"
   buttonText: "Read More"
